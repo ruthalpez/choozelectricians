@@ -12,7 +12,7 @@ import { IoSearchOutline } from "react-icons/io5";
 import { usePainters } from "@/context/PaintersContext";
 
 import MainImage from "@/images/background/chooz_electricians_header-1.png";
-import BackgroundImage from "@/images/background/chooz_plumbers_header-wallpaper.png";
+import BackgroundImage from "@/images/background/chooz_roofers_header-wallpaper_1.png";
 
 const HeroSection = () => {
   const [searchTerm, setSearchTerm] = useState("");
@@ -141,10 +141,10 @@ const HeroSection = () => {
       />
       <div className="container xl:max-w-[1100px] mx-auto px-5 md:pt-5 relative z-20">
         <h1 className="text-[45px] lg:text-[65px] font-bold leading-14 mb-5 font-poppins">
-          Need A Electricians?
+          Looking for a electrician?
         </h1>
         <p className="text-[20px] lg:text-[35px] font-medium font-poppins">
-          Find the Best Electricians Pro near you
+          Find the best electricians near you
         </p>
         <div className="flex flex-col lg:flex-row justify-between gap-20 lg:gap-40">
           <div className="w-full lg:w-1/2">
