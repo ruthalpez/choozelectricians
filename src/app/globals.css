@@ -9,7 +9,7 @@
   --font-nunito: var(--font-nunito);
 
   --clr-primary: #1b356c;
-  --clr-secondary: #c42f0a;
+  --clr-secondary: #ffe026;
   --clr-tertiary: #3258a4;
   --clr-icon-check: #3258a4;
   --clr-icon-check-dark: #1b356c;
@@ -128,7 +128,7 @@ body {
 }
 
 .primary-bg-gradient {
-  @apply bg-gradient-to-b from-[#2a6fd3] via-[#2a6fd3] to-[#d9726e];
+  @apply bg-gradient-to-b from-[#2a6fd3] via-[#2a6fd3] to-[#ffe026];
 }
 
 .main-search {
