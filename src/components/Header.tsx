@@ -43,7 +43,7 @@ const Header: React.FC = () => {
           <Link href={"/"} prefetch={false} className="cursor-pointer md:ml-5">
             <Image
               src={Logo.src}
-              alt="Chooz Electricians logo"
+              alt="Chooz Electricians transparent logo with arrow design for electrical contractor directory"
               width={130}
               height={100}
               priority
