@@ -3,7 +3,7 @@
 import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
-import Logo from "@/images/logo/chooz_plumbers_header_logo_2.png";
+import Logo from "@/images/logo/chooz_electricians_header_logo_1.png";
 import { FiPlus } from "react-icons/fi";
 import { Menu } from "lucide-react";
 import {
