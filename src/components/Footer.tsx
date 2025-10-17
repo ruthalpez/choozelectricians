@@ -23,7 +23,7 @@ const quickLinks = [
 
 const Footer = () => {
   return (
-    <footer className="text-sm primary-bg-gradient text-[#ffffff]">
+    <footer className="text-sm bg-[#31467C] text-[#ffffff]">
       <div className="container xl:max-w-[1340px] mx-auto px-5">
         <div className="py-10 flex flex-wrap gap-10 md:gap-20">
           <div>
